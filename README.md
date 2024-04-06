@@ -10,3 +10,8 @@ Estou entusiasmado em contribuir para projetos desafiadores e inovadores, pois t
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jersonvitor&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jersonvitor&layout=compact&langs_count=8&theme=radical)
+
+---
+## Estou Aprendendo:
+
+<img loading width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />           <img loading width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />             <img loading width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />             <img loading width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
